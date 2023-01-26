@@ -40,3 +40,4 @@ I am a Android developer <img src="https://media.giphy.com/media/fuL25GIokxHoBHZ
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mesnikx&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mesnikx)](https://github.com/anuraghazra/github-readme-stats)
