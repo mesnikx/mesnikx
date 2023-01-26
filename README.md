@@ -17,4 +17,4 @@ I am a Android developer <img src="https://media.giphy.com/media/fuL25GIokxHoBHZ
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-mesnikx-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/yaoxotnijk)
