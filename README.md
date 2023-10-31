@@ -29,8 +29,8 @@ I am a Android developer <img src="https://media.giphy.com/media/fuL25GIokxHoBHZ
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mesnikx&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mesnikx&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mesnikx&theme=dark&background=000000)](https://git.io/streak-stats)
 <div align="center">
   <img src="https://media.giphy.com/media/WQ0lRzY0Ld50D9aHze/giphy.gif" width="500" height="300"/>
 </div>
