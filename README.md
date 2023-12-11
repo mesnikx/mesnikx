@@ -20,7 +20,7 @@ I am a Android developer <img src="https://media.giphy.com/media/fuL25GIokxHoBHZ
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-mesnikx-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/yaoxotnijk)
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
@@ -28,7 +28,7 @@ I am a Android developer <img src="https://media.giphy.com/media/fuL25GIokxHoBHZ
 </div>
 ---
 
-### :fire: My Stats :
+### My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mesnikx&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mesnikx&theme=dark&background=000000)](https://git.io/streak-stats)
 <div align="center">
