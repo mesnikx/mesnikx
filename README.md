@@ -11,7 +11,7 @@
 </div>
 ### :man_technologist: About Me :
 I am a Android developer <img src="https://media.giphy.com/media/fuL25GIokxHoBHZdvi/giphy.gif" width="30"> from Russia.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: As a Software Engineer, I specialize in crafting high-quality Android apps that not only meet but exceed user expectations.
 
 - :seedling: Exploring Technical Content Writing.
 
